@@ -1,0 +1,3 @@
+﻿  8.haftafonksiyon.cpp
+C:\Users\Enes Kaya\source\repos\8.haftafonksiyon\8.haftafonksiyon\8.haftafonksiyon.cpp(16,12): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+  8.haftafonksiyon.vcxproj -> C:\Users\Enes Kaya\source\repos\8.haftafonksiyon\x64\Debug\8.haftafonksiyon.exe
